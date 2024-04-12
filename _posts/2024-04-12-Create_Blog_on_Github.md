@@ -1,3 +1,10 @@
+---
+layout: post
+title: My First Blog Post
+date: 2024-04-12
+author: Your Name
+categories: [blog, technology]
+---
 Creating a blog on GitHub is a fantastic way to share your thoughts and showcase your work. Let’s get you on the right track! 😊
 
 1. GitHub Pages allows you to host project blogs, documentation, resumes, portfolios, or any other static content directly from your GitHub repositories. It’s a convenient way to turn your repository into a website.
