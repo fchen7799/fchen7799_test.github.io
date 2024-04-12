@@ -2,7 +2,7 @@
 layout: post
 title: My First Blog Post
 date: 2024-04-12
-author: Your Name
+author: Frank Chen
 categories: [blog, technology]
 ---
 Creating a blog on GitHub is a fantastic way to share your thoughts and showcase your work. Let’s get you on the right track! 😊
